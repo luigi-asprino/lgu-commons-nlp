@@ -24,7 +24,7 @@
 	</build>
 
 	<properties>
-		<stanfordcorenlp.version>3.7.0</stanfordcorenlp.version>
+		<stanfordcorenlp.version>4.4.0</stanfordcorenlp.version>
 		<tint.version>0.2</tint.version>
 	</properties>
 
